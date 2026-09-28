@@ -241,11 +241,6 @@ Production-Maintenance-Analytics/
 │   └── Production_Maintenance_Dashboard.pbix
 │
 └── screenshots/
-    ├── streamlit_production_entry.png
-    ├── streamlit_breakdown_entry.png
-    ├── streamlit_maintenance_entry.png
-    ├── streamlit_quality_entry.png
-    └── powerbi_dashboard.png
 ```
 
 ## Installation
@@ -253,7 +248,7 @@ Production-Maintenance-Analytics/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Sonu260619/Production-Maintenance-Analytics
 cd Production-Maintenance-Analytics
 ```
 
